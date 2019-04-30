@@ -4,5 +4,6 @@ Using Robot class form AWT.
 
 Compile & run:
 javac M.java
+
 java M
 
