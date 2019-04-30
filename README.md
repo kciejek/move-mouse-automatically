@@ -1,2 +1,3 @@
 # move-mouse-automatically
-Move mouse automatically in windows
+Simple as possible mimic mouse move in windows.
+Using Robot class form AWT.
